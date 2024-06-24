@@ -10,7 +10,7 @@ namespace SWP80
     {
         static void Main(string[] args)
         {
-
+            Quader quader = new Quader(1,1,1);
         }
         
     }
