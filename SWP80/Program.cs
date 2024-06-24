@@ -10,6 +10,19 @@ namespace SWP80
     {
         static void Main(string[] args)
         {
+
+        }
+        
+    }
+    class Quader
+    {
+        private int _lenght;
+
+        public int Length => _lenght;
+
+        public Quader(int length)
+        {
+            _lenght = length;
         }
     }
 }
