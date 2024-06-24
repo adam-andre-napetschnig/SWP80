@@ -1,4 +1,8 @@
-using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace SWP80
 {
@@ -6,11 +10,6 @@ namespace SWP80
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("TEST");
         }
-    }
-    class Quader
-    {
-        private int _length;
     }
 }
