@@ -31,5 +31,11 @@ namespace SWP80
             _width = width;
             _height = height;
         }
+
+        public int Oberflaeche()
+        {
+            return 2 * (_lenght * _width) + 2 * (_height * _width) + 2 * (_lenght * _height);
+        }
+
     }
 }
